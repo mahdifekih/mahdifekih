@@ -22,7 +22,7 @@
 
 - ⚡ Coding fact: "There are over 700 different programming languages".
 
-- 💪🏼 Fav Quote: "Great Developers never stop learning".
+- 💪🏼 Fav Quote: "Only those who attempt the absurd achieve the impossible".
 
 <br>
 
