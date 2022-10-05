@@ -10,11 +10,11 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently A Business Analytics Student at `TBS` and working to obtaining Udacity's Data Analyst Nanodegree.
+- 🔭 I’m currently A Business Analytics Student at `TBS` and working to obtain Udacity's Data Analyst Nanodegree.
 
 - 👯 I’m looking for a job that aligns with my current field of study.
 
-- 👨‍💻 Udacity's  
+- 👨‍💻 Udacity's data analyst nanodegree program is the most enlightening journey I've been through.
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
