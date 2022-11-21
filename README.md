@@ -10,7 +10,7 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently A Business Analytics Student at `TBS` and working to obtain Udacity's Data Analyst Nanodegree.
+- 🔭 I’m currently An MSc Business Analytics Student at `TBS`.
 
 - 👯 I’m looking for a job that aligns with my current field of study.
 
